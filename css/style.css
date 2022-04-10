@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    -webkit-margin-collapse: collapse;
+}
+img{
+    width: 100%;
+}
+li{
+    font-size: 25px;
+}
